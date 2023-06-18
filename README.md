@@ -1,7 +1,7 @@
-### Hey there 👋! I'm Ethan
+### Hey there 👋 I'm Ethan!
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&color=27A9F7&width=435&lines=I'm+a+Student;I'm+a+Developer;I'm+a+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&color=27A9F7&width=435&lines=I'm+a+Student;I'm+a+Developer;I'm+a+Son)](https://git.io/typing-svg)
 
 <p>Currently, I'm a Student pursuing a Diploma in Applied AI and Analytics at Singapore Polytechnic.</p>
 <h2>⚡️ A Few Quick Things</h2>
