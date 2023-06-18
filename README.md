@@ -15,12 +15,12 @@
 
 ---
 
-### 🎧 Currently Listening to
+### 🎧 Am Currently Listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vnoqxa5jdfqs60rss9i0syet0&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vnoqxa5jdfqs60rss9i0syet0&redirect=true)
 
 ---
 
-### 📊 Github Stats
+### 📊 Mah Github Stats:
 [![eatenliao's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=eatenliao&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![eatenliao's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=eatenliao&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![eatenliao's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eatenliao)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,7 +34,7 @@
 
 ---
 
-### 📚 My Skills
+### 📚 Mah Skills:
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&color=%23FFCE5A)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
@@ -64,7 +64,7 @@
 
 ---
 
-### 🛠️ Tools
+### 🛠️ Tools I Use:
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=Visual-studio-code)](https://code.visualstudio.com/)
