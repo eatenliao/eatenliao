@@ -14,7 +14,7 @@ I'm a [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&durati
 
 ---
 
-<h2> I'm currently listening to...</h2>
+### 🎧 Spotify Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vnoqxa5jdfqs60rss9i0syet0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
