@@ -1,6 +1,6 @@
 ### Hey there 👋! I'm Ethan
 
-I'm a 
+<p> I'm a </p>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&color=27A9F7&width=435&lines=Student;Researcher;Developer)](https://git.io/typing-svg)
 
 <p>Currently, I'm a Student pursuing a Diploma in Applied AI and Analytics at Singapore Polytechnic.</p>
