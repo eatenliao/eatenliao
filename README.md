@@ -1,6 +1,7 @@
 ### Hey there 👋! I'm Ethan
 
-I'm a [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&color=27A9F7&width=435&lines=Student;Researcher;Developer)](https://git.io/typing-svg)
+I'm a 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&color=27A9F7&width=435&lines=Student;Researcher;Developer)](https://git.io/typing-svg)
 
 <p>Currently, I'm a Student pursuing a Diploma in Applied AI and Analytics at Singapore Polytechnic.</p>
 <h2>⚡️ A Few Quick Things</h2>
@@ -41,15 +42,20 @@ I'm a [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&durati
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.dev/)
+[![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![SQLServer](https://img.shields.io/badge/-SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
 [![FireBase](https://img.shields.io/badge/-FireBase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Jupyter](https://img.shields.io/badge/-JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Numpy](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-[![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
+[![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/en/2.0.x/)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com)
 [![ChartJS](https://img.shields.io/badge/-ChartJS-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
