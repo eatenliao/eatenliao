@@ -1,4 +1,4 @@
-### Hey there 👋 I'm Ethan!
+# Hey there 👋 I'm Ethan!
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&color=27A9F7&width=435&lines=I'm+a+Student;I'm+a+Developer)](https://git.io/typing-svg)
@@ -15,7 +15,7 @@
 
 ---
 
-### 🎧 Am Currently Listening to
+### 🎧 I'm Currently Listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vnoqxa5jdfqs60rss9i0syet0&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vnoqxa5jdfqs60rss9i0syet0&redirect=true)
 
 ---
