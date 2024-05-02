@@ -3,10 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&color=27A9F7&width=435&lines=I'm+a+Student;I'm+a+Developer)](https://git.io/typing-svg)
 
-<p>Currently, I'm a Student pursuing a Diploma in Applied AI and Analytics at Singapore Polytechnic.</p>
+<p>Currently, I'm an intern @ <a href="https://www.tech.gov.sg/">GovTech</a>, and a student pursuing a Diploma in Applied AI and Analytics at Singapore Polytechnic.</p>
 <h2>⚡️ A Few Quick Things</h2>
 <ul>
-<li>🔭 I’m currently interning @ <a href="https://www.tech.gov.sg/">GovTech</a>.</li>
+<!-- <li>🔭 I’m currently interning @ <a href="https://www.tech.gov.sg/">GovTech</a>.</li> -->
 <li>🧐 Passionate about <strong>Natural Language Processing</strong>, <strong>Transformers</strong> & <strong>Adversarial ML</strong>!</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/eatenliao">Github</a>.</li>
 <li>📙 Check out my <a href="https://eatenliao.vercel.app">portfolio</a>.</li>
