@@ -7,7 +7,7 @@
 <h2>⚡️ A Few Quick Things</h2>
 <ul>
 <li>🔭 I’m currently interning @ <a href="https://www.tech.gov.sg/">GovTech</a>.</li>
-<li>🧐 Learning about <strong>Natural Language Processing</strong> in <strong>Generative Adversarial Networks</strong>.</li>
+<li>🧐 Passionate about <strong>Natural Language Processing</strong>, <strong>Transformers</strong> & <strong>Adversarial ML</strong>!</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/eatenliao">Github</a>.</li>
 <li>📙 Check out my <a href="https://eatenliao.vercel.app">portfolio</a>.</li>
 <li>🎉 Fun Fact: 我会讲中文。</li>
