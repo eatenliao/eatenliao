@@ -8,7 +8,7 @@
 <ul>
 <!-- <li>🔭 I’m currently interning @ <a href="https://www.tech.gov.sg/">GovTech</a>.</li> -->
 <li>🧐 Passionate about <strong>Natural Language Processing</strong>, <strong>Transformers</strong> & <strong>Adversarial ML</strong>!</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/eatenliao">Github</a>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/eatenliao">GitHub</a>.</li>
 <li>📙 Check out my <a href="https://eatenliao.vercel.app">portfolio</a>.</li>
 <li>🎉 Fun Fact: 我会讲中文。</li>
 </ul>
@@ -16,14 +16,15 @@
 ---
 
 ### 🎧 I'm Currently Listening to
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vnoqxa5jdfqs60rss9i0syet0&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vnoqxa5jdfqs60rss9i0syet0&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vnoqxa5jdfqs60rss9i0syet0&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vnoqxa5jdfqs60rss9i0syet0&redirect=true)
 
 ---
 
 ### 📊 Mah Github Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eatenliao&theme=default)
 [![eatenliao's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=eatenliao&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![eatenliao's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=eatenliao&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-![Metrics](https://metrics.lecoq.io/eatenliao?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSingapore)
+
 [![eatenliao's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eatenliao)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -69,3 +70,7 @@
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=Visual-studio-code)](https://code.visualstudio.com/)
+
+---
+
+![](https://komarev.com/ghpvc/?username=eatenliao)
