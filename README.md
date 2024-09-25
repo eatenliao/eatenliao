@@ -15,11 +15,6 @@
 
 ---
 
-### 🎧 I'm Currently Listening to
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vnoqxa5jdfqs60rss9i0syet0&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vnoqxa5jdfqs60rss9i0syet0&redirect=true)
-
----
-
 ### 📊 Mah Github Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eatenliao&theme=default)
 [![eatenliao's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=eatenliao&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
