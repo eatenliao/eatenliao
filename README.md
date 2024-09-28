@@ -8,9 +8,9 @@
 ---
 
 # ~ stats 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eatenliao&theme=default)
-[![eatenliao's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=eatenliao&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![eatenliao's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=eatenliao&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simethan&theme=default)
+[![eatenliao's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=simethan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![eatenliao's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=simethan&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## wakatime
 [![eatenliao's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eatenliao)](https://github.com/anuraghazra/github-readme-stats)
@@ -48,8 +48,8 @@
 ---
 
 # ~ connect w me
-<a href="https://www.linkedin.com/in/eatenliao/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/simethan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=eatenliao)
+![](https://komarev.com/ghpvc/?username=simethan)
