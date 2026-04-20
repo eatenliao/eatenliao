@@ -3,7 +3,7 @@
 <p>Currently, I'm an intern @ <a href="https://www.tech.gov.sg/">GovTech</a>, and a student pursuing a Diploma in Applied AI and Analytics at Singapore Polytechnic.</p>
 
 ## more about me
-<p>Check out my <a href="https://eatenliao.vercel.app">portfolio</a></p>
+<p>Check out my <a href="https://simethan.vercel.app">portfolio</a></p>
 
 ---
 
